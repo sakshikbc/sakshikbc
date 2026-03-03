@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Senior Software Engineer currently working at Canterr<br>I am looking forward to collaborate on Python & PHP Projects<br>I am looking for help to find me a new job<br>I am currently learning Python, LLMs<br>
+I am Senior Software Engineer currently working at Canterr<br>I am looking forward to collaborate on Python & PHP Projects<br/>
 
 
 ## 🌐 Socials:
